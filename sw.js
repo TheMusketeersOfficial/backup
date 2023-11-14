@@ -6,6 +6,7 @@ var urlsToCache = [
     'assets/img/logo-192.png',
     'assets/img/logo-512.png',
     'assets/img/logo.png',
+    'assets/img/oldLogo.png',
     'assets/img/favicon.ico',
     'assets/css/css.css',
     'assets/css/spin.css',
